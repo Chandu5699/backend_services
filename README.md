@@ -1,4 +1,4 @@
-# MAI Deploy: Learn to deploy AI Applications to Vercel with FastAPI
+# Learn to deploy AI Applications to Vercel with FastAPI
 
 This guide helps you deploy a FastAPI application with AI-powered functionality to **Vercel**.
 
